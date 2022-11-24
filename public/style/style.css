@@ -1,3 +1,7 @@
+div p:first-child{
+    padding-left: 400px;
+}
+
 
 
 .titre{
@@ -9,85 +13,82 @@
     font-weight: bold;
 }
 .butt1{
-    margin-left: 200%;
+    border-radius: 5px;
+    margin-left: 100%;
     background-color: mediumpurple;
     color: white;
-    padding: 20px;
+    padding: 15px 30px;
 }
 .contenu1{
     align-items: center;
+    margin-bottom: 15px;
     display: flex;
-    border: 1px solid mediumpurple;
+    border: 3px solid mediumpurple;
     width: 60%;
 
 }
 
 .butt2{
-    margin-left: 200%;
-    background-color: mediumpurple;
+    border-radius: 5px;
+    margin-left: 100%;
+    background-color: red;
     color: white;
-    padding: 20px;
+    padding: 15px 30px;
 }
 .contenu2{
     align-items: center;
+    margin-bottom: 15px;
     display: flex;
-    border: 1px solid mediumpurple;
+    border: 3px solid red;
     width: 60%;
 
 }
 
 .butt3{
-    margin-left: 200%;
-    background-color: mediumpurple;
+    border-radius: 5px;
+    margin-left: 100%;
+    background-color: blue;
     color: white;
-    padding: 20px;
+    padding: 15px 30px;
 }
 .contenu3{
     align-items: center;
+    margin-bottom: 15px;
     display: flex;
-    border: 1px solid mediumpurple;
+    border: 3px solid blue;
     width: 60%;
 
 }
 
 .butt4{
-    margin-left: 200%;
-    background-color: mediumpurple;
+    border-radius: 5px;
+    margin-left: 100%;
+    background-color: yellow;
     color: white;
-    padding: 20px;
+    padding: 15px 30px;
 }
 .contenu4{
     align-items: center;
+    margin-bottom: 15px;
     display: flex;
-    border: 1px solid mediumpurple;
+    border: 3px solid yellow;
     width: 60%;
 
 }
 
 .butt5{
-    margin-left: 200%;
-    background-color: mediumpurple;
+    border-radius: 5px;
+    margin-left: 100%;
+    background-color: green;
     color: white;
-    padding: 20px;
+    padding: 15px 30px;
 }
 .contenu5{
     align-items: center;
+    margin-bottom: 15px;
     display: flex;
-    border: 1px solid mediumpurple;
+    border: 3px solid green;
     width: 60%;
 
 }
 
-.butt1{
-    margin-left: 200%;
-    background-color: mediumpurple;
-    color: white;
-    padding: 20px;
-}
-.contenu1{
-    align-items: center;
-    display: flex;
-    border: 1px solid mediumpurple;
-    width: 60%;
-
-}
